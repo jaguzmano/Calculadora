@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkyT24qHHmBD2Afxlf8t6rK7Txw6mNiP+UeXNogHdIKDmzZXFWtZXUXY+nYDlqkOuxrympGlg13zZ8fhXto/iA==",
+  "success": true,
+  "projectFilePath": "D:\\RESPALDOS ARIEL GUSMAN\\UTN\\VII\\aplicaciones moviles\\Proyectos\\App4\\App4\\App4\\App4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARIEL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ARIEL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ARIEL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ARIEL\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ARIEL\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
